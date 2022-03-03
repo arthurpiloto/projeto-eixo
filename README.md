@@ -2,8 +2,6 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-> Status do Projeto: :cross_mark: (em desenvolvimento)
-
 ### Tópicos
 
 :white_medium_small_square: [Descrição do Projeto](#descrição-do-projeto)
