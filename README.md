@@ -8,13 +8,15 @@
 
 :white_medium_small_square: [Descrição do Projeto](#descrição-do-projeto)
 
-:white_medium_small_square: [Funcionalidades](#funcionalidades)
+:white_medium_small_square: [Público Alvo](#público-alvo)
 
-:white_medium_small_square: [Desenvolvedores/Contribuintes](#desenvolvedores-contribuintes)
+:white_medium_small_square: [Redes Sociais](#redes-sociais)
 
 ## Descrição do Projeto
 
-## Funcionalidades
+## Público Alvo
+
+## Redes Sociais
 
 ## Desenvolvedores/Contribuintes
 
