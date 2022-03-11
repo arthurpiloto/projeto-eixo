@@ -1,7 +1,7 @@
 <h1 align="center"> Investimento em Renda Fixa </h1>
 
 <p>
-    ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge">
 </p>
 
 ### Tópicos
