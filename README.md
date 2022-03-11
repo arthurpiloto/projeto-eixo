@@ -10,7 +10,7 @@
 
 :white_medium_small_square: [Funcionalidades](#funcionalidades)
 
-:white_medium_small_square: [Desenvolvedores/Contribuintes](#desenvolvedores/contribuintes)
+:white_medium_small_square: [Desenvolvedores/Contribuintes](#desenvolvedores-contribuintes)
 
 ## Descrição do Projeto
 
