@@ -18,6 +18,11 @@
 
 ## Redes Sociais
 
+- [Twitter](url do twitter da marca)
+- [Instagram](url do instagram da marca)
+
 ## Desenvolvedores/Contribuintes
+
+
 
 Copyright :copyright: 2022 - Projeto Eixo
